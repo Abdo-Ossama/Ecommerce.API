@@ -29,6 +29,7 @@
 	  <Folder Include="Areas\Identity\" />
 	  <Folder Include="wwwroot\img\brands_img\" />
 	  <Folder Include="wwwroot\img\products_img\" />
+	  <Folder Include="wwwroot\img\products_img\subImgs\" />
 	</ItemGroup>
  
 

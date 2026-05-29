@@ -1,0 +1,13 @@
+﻿global using Ecommerce.API.Models;
+global using Stripe;
+global using Mapster;
+global using Stripe.Checkout;
+global using Ecommerce.API.DataAccess;
+global using Ecommerce.API.Utilities;
+global using System.Linq.Expressions;
+global using Ecommerce.API.Repositories;
+global using Ecommerce.API.Repositories.IRepositorires;
+global using Ecommerce.API.Services;
+global using Ecommerce.API.Services.IServices;
+global using Ecommerce.API.DTOs.Requests;
+global using Ecommerce.API.DTOs.Responses;

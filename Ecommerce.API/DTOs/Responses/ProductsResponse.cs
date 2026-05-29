@@ -1,0 +1,22 @@
+﻿namespace Ecommerce.API.DTOs.Responses
+{
+    public class ProductsResponse
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public bool Status { get; set; }
+        public string MainImg { get; set; }
+        public double Price { get; set; }
+        public int Quantity { get; set; }
+        public long Discount { get; set; }
+        public double Rate { get; set; }
+
+        public int CategoryId { get; set; }
+        public int BrandId { get; set; }
+
+
+
+
+    }
+}

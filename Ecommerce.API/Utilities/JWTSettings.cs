@@ -1,4 +1,4 @@
-﻿namespace ECommerce526.API.Utility
+﻿namespace Ecommerce.API.Utility
 {
     public class JWTSettings
     {
